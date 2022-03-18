@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👂 My name is Admir
+- 📫 How to reach me: admir.muhic@yahoo.com
+
+
+
 <!--
 **admirmuhic/admirmuhic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
