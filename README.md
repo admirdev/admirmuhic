@@ -29,7 +29,7 @@ I am a professional **System Developer** (Systemutvecklare) with extensive exper
 
 ### 💼 Professional Experience & Background
 
-* 🏢 **itm8 Sverige AB** (2020 - Present) – Developing and maintaining high-security, high-availability web and intranet solutions for Region Skåne.
+* 🏢 **itm8 Sverige AB** (2020 - Present) – Developing and maintaining web solutions for Region Skåne.
 * 🏢 **Visma Consulting** (2017 - 2020) – Fullstack development of order management systems and web applications for local energy sectors.
 * 🏢 **Appcorn AB** (2017) – Android application development targeted at end-consumers.
 * 🎓 **Högskolan Kristianstad** – Bachelor's Degree in Computer Science (Kandidatexamen i datavetenskap).
@@ -49,5 +49,3 @@ I am a professional **System Developer** (Systemutvecklare) with extensive exper
 
 * 📧 **Email:** [admir@admirmuhic.se](mailto:admir@admirmuhic.se)
 * 💼 **LinkedIn:** [linkedin.com/in/admir-muhic-a17b11109](https://linkedin.com/in/admir-muhic-a17b11109)
-
-"Clean code always looks like it was written by someone who cares."
